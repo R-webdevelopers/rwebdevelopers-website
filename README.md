@@ -29,7 +29,7 @@ R Web Developers is a website development company that specializes in creating s
 To get started with the R Web Developers website, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/rwebdevelopers-website.git
+git clone https://github.com/r-webdevelopers/rwebdevelopers-website.git
 
 2. Install the necessary dependencies. (Provide instructions specific to your project setup, if any.)
 
