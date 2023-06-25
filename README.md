@@ -1,6 +1,6 @@
 # R Web Developers Website
 <p align="center">
-    <img src="asset/logo.svg" height="150">
+    <img src="assets/logo.jpg" height="150">
 </p>
 
 <h3 align="center">R Web Developers</h3>
