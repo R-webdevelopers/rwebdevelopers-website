@@ -5,7 +5,16 @@
 
 <h3 align="center">R Web Developers</h3>
 
+<div align="center">
 Welcome to the official repository for the R Web Developers website! This website showcases our services, portfolio, and provides information about our company.
+
+<a href="https://github.com/r-webdevelopers/rwebdevelopers-website/stargazers"><img src="https://img.shields.io/github/stars/r-webdevelopers/rwebdevelopers-website" alt="Stars Badge"/></a>
+<a href="https://github.com/r-webdevelopers/rwebdevelopers-website/network/members"><img src="https://img.shields.io/github/forks/r-webdevelopers/rwebdevelopers-website" alt="Forks Badge"/></a>
+<a href="https://github.com/r-webdevelopers/rwebdevelopers-website/pulls"><img src="https://img.shields.io/github/issues-pr/r-webdevelopers/rwebdevelopers-website" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/r-webdevelopers/rwebdevelopers-website/issues"><img src="https://img.shields.io/github/issues/r-webdevelopers/rwebdevelopers-website" alt="Issues Badge"/></a>
+<a href="https://github.com/r-webdevelopers/rwebdevelopers-website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/r-webdevelopers/rwebdevelopers-website?color=2b9348"></a>
+<a href="https://github.com/r-webdevelopers/rwebdevelopers-website/blob/master/LICENSE"><img src="https://img.shields.io/github/license/r-webdevelopers/rwebdevelopers-website?color=2b9348" alt="License Badge"/></a>
+</div>
 
 ## Table of Contents
 
